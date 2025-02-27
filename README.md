@@ -1,1 +1,1 @@
-# Intel_project
+This project demonstrates the implementation of the K-Means clustering algorithm using the scikit-learn library. The dataset is generated synthetically using make_blobs, which creates clusters of points. The objective is to apply K-Means clustering to group the data points into three distinct clusters and visualize the results.
